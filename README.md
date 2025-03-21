@@ -4,7 +4,7 @@ My education program encompassed studying API testing. Here you can see the resu
 
 # Simple Books API
 This API allows to book a book and work with the orders. 
-Collection in Postman: [Books.postman_collection.jso](Books.postman_collection.json)
+Collection in Postman: [Books.postman_collection.json](Books.postman_collection.json)
 
 
 Restful-booker API
