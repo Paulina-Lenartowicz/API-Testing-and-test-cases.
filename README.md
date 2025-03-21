@@ -6,7 +6,7 @@ My education program encompassed studying API testing. Here you can see the resu
 This API allows to book a book and work with the orders. 
 Collection in Postman: `Books.postman_collection.json`
 
-
+[a relative link](Books.postman_collection.json)
 
 Restful-booker API
 This API allows to create and work with bookings.
