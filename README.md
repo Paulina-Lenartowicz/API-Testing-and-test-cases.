@@ -1,4 +1,4 @@
-# API testing 
+# API testing and test cases
 
 My education program encompassed studying API testing. Here you can see the results of my working in Postman.
 
