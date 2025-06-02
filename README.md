@@ -15,4 +15,4 @@ Collection in Postman: [Booking.postman_collection.json](Booking.postman_collect
 # Test cases
 During the internship I wrote test cases of the Publigo website- which allows selling courses. The test cases written by me are attached. After importing to JIRA, I was also responsible for running tests.
 
-Test cases: [Test_cases](Test_cases)
+Test cases: [Test_cases.xls](Test_cases.xls)
